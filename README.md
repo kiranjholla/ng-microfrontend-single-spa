@@ -1,0 +1,1 @@
+# ng-microfrontend-single-spa
